@@ -1,16 +1,29 @@
-# todo_list1
+# Task Management App 
 
-A new Flutter project.
+A task management app built with Flutter, designed to help users stay organized and prioritize their tasks efficiently.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🗂️ **Task Management:** Easily create, edit, and delete tasks to stay productive.
+- 📊 **Priority Settings:** Set priority levels to ensure important tasks are handled first.
+- 🎨 **User-Friendly Interface:** Simple and intuitive design for effortless task management.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework:** Flutter
+- **Language:** Dart
+- **IDE:** Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+- **Nandini Sharma**
+- [GitHub Profile](https://github.com/Nandini056)
