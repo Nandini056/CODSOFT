@@ -14,7 +14,6 @@ A task management app built with Flutter, designed to help users stay organized 
 - **Language:** Dart
 - **IDE:** Android Studio
 
-
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
